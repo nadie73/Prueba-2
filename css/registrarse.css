@@ -1,0 +1,45 @@
+#registrate{
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: white;
+} 
+
+#nombre_cliente{
+  height: 40px;
+}
+
+#correo{
+  height: 40px;
+}
+
+#celular{
+  height: 40px;
+}
+
+#fecha_nacimiento{
+  height: 40px;
+}
+
+
+#confirmar_contrasena{
+  height: 40px;
+}
+
+#contrasena{
+  height: 40px;
+}
+
+#fondo{
+  margin-top: 75px;
+}
+
+#relleno{
+  margin-bottom: 50px;
+}
+
+#boton_comprar{
+  margin-left: 31%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+

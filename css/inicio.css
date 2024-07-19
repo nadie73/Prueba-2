@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+.logo{
+    width: 400px;
+    height: auto;
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+    margin-top: 50px;
+}
+
+.bienvenido{
+    text-align: center;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.boton-iniciar{
+    margin: auto;
+    margin-left: 30%;
+}
+
+.boton-registrar{
+    margin: auto;
+    margin-left: 18%;
+}
+
+body{
+    background-color: rgb(120, 115, 115);
+}

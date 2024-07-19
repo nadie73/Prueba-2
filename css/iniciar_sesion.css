@@ -1,0 +1,22 @@
+#iniciar_sesion{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+  } 
+  
+
+#celular{
+    height: 40px;
+}
+
+#contrasena{
+    height: 40px;
+}
+
+#fondo{
+    margin-top: 100px;
+}
+
+#relleno{
+    margin-bottom: 50px;
+}

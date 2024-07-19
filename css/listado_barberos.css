@@ -1,0 +1,22 @@
+form {
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    padding: 8px;
+    font-size: 16px;
+}
+
+input[type="submit"] {
+    padding: 8px 12px;
+    font-size: 16px;
+    background-color: #030303; /* Color de fondo verde */
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #000000; /* Cambiar el color de fondo al pasar el ratón */
+}

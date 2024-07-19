@@ -1,0 +1,62 @@
+#menu{
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#titulosmenu{
+    color: white;
+}
+
+#container{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#titulos{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 35px;
+}
+
+#boton_comprar{
+    width: 110px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+#bordecarta{
+    border: 2px solid black;
+}
+
+#agendarcita{
+    margin-left: 30%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#muestras{
+    border: 2px solid black;
+    margin-left: 10px;
+}
+
+#tipo_corte{
+    text-align: center;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#tipo_producto{
+    text-align: center;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#titulomuestrastrabajo{
+    text-align: center;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#titulotienda{
+    text-align: center;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+} 

@@ -1,0 +1,28 @@
+#seleccionar{
+    width: 300px;
+    margin: auto;
+    height: 40px;
+}
+
+#fecha_cita{
+    height: 40px;
+}
+
+#hora_cita{
+    height: 40px;
+}
+
+#agendar_cita{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+  } 
+
+#fondo{
+    margin-top: 100px;
+}
+
+#relleno{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
